@@ -21,8 +21,8 @@ const {
 	delay,
 } = require("@adiwajshing/baileys");
 
-try {
-var { state, saveCreds } = await useMultiFileAuthState('sessions')
+const startSock = async() => {
+    const { state, saveCreds } = await useMultiFileAuthState('sessions')
 	
 	const { version, isLatest } = await fetchLatestBaileysVersion()
 	console.log(`using WA v${version.join('.')}, isLatest: ${isLatest}`)
