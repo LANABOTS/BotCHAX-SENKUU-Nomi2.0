@@ -1,17 +1,17 @@
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "BOTCAHX",
-  "botNumber": "19712702364@s.whatsapp.net",
-  "owner": ["6282221792667@s.whatsapp.net"],
+  "namebot": "Nomi~Bots|2.0",
+  "botNumber": "6285872392604@s.whatsapp.net",
+  "owner": ["6285727501561@s.whatsapp.net"],
   "instagram": "https://instagram.com/prm2.0",
-  "author": "BOTCAHX",
-  "session": "senku-md",
-  "email": "tioclkp02@gmail.com",
+  "author": "Dark-RSC",
+  "session": "session",
+  "email": "-",
   "self": false,
   "limit": { "limitUser": 100, "gameLimitUser": 100, "gameLimitPremium": 300 },
   "packInfo":{
-    "packname": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-    "author": "BOTCAHX"
+    "packname": "CopyRight",
+    "author": "Nomi~Bots|2.0"
   },
   "ignore": {
 		"directory": ["umum"]
